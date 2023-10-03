@@ -4,11 +4,12 @@
 
 Sou estudante do IF Baiano e atualmente curso o tecnico em informática para internet.
 
-## Feramentas que eu uso.
+### Feramentas que eu uso.
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-          
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
           
 
 ## E-mail para contato.
