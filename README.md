@@ -15,5 +15,5 @@ Sou estudante do IF Baiano e atualmente curso o tecnico em informática para int
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
           
 
-## E-mail para contato.
+## Como voçê pode entrar em contato comigo pelo e-mail.
 raifransantos123456@gmail.com
