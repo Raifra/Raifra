@@ -2,6 +2,9 @@
 
 ![Raifra GitHub stats](https://github-readme-stats.vercel.app/api?username=Raifra&show_icons=true&theme-dracula)
 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raifra&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
+
+
 Sou estudante do IF Baiano e atualmente curso o tecnico em informática para internet.
 
 ### Feramentas que eu uso.
