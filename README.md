@@ -15,29 +15,20 @@ Olá, eu sou raifran! 👋
 
 Aqui estão algumas das linguagens e ferramentas que eu uso e estou familiarizado:
 
-- 💻 [Linguagem/tecnologia 1]
-- 💻 [Linguagem/tecnologia 2]
-- 💻 [Linguagem/tecnologia 3]
-- ...
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
 
-## Projetos Destacados
 
-Aqui estão alguns dos meus projetos destacados no GitHub:
-
-- 🚀 [Projeto 1](link-para-o-projeto-1): Uma breve descrição do projeto.
-- 🚀 [Projeto 2](link-para-o-projeto-2): Uma breve descrição do projeto.
-- 🚀 [Projeto 3](link-para-o-projeto-3): Uma breve descrição do projeto.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raifra&show_icons=true&theme=radical)
 
 ## Vamos Conectar!
 
 Fique à vontade para me seguir nas redes sociais e entrar em contato:
-
-- [Twitter](link-para-seu-twitter)
-- [LinkedIn](link-para-seu-linkedin)
 - [Instagram](link-para-seu-instagram)
 
 Vamos trabalhar juntos em projetos interessantes!
