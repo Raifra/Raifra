@@ -29,7 +29,9 @@ Aqui estão algumas das linguagens e ferramentas que eu uso e estou familiarizad
 ## Vamos Conectar!
 
 Fique à vontade para me seguir nas redes sociais e entrar em contato:
-- [Instagram](link-para-seu-instagram)
+<a href="https://www.instagram.com/ray_guimaraes0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:raifransantos123456@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 Vamos trabalhar juntos em projetos interessantes!
 
