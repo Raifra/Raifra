@@ -1,7 +1,5 @@
 # Bem-vindo(a) ao Meu Perfil no GitHub
 
-![Imagem de Capa]
-
 ## Sobre Mim
 
 Olá, eu sou raifran! 👋
