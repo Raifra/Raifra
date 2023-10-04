@@ -1,19 +1,44 @@
-### Olá! Eu sou Raifran Guimarães👋
+# Bem-vindo(a) ao Meu Perfil no GitHub
 
-![Raifra GitHub stats](https://github-readme-stats.vercel.app/api?username=Raifra&show_icons=true&theme-dracula)
+![Imagem de Capa]
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raifra&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
+## Sobre Mim
+
+Olá, eu sou raifran! 👋
+
+- 🎓 Atualmente, estou estudando instuto federal baiano .
+- 💻 Estou interessado em tecnologias.
+- 🌱 Atualmente, estou aprendendo html,css.
 
 
-Sou estudante do IF Baiano e atualmente curso o tecnico em informática para internet.
+## Linguagens e Ferramentas
 
-### Feramentas que eu uso.
+Aqui estão algumas das linguagens e ferramentas que eu uso e estou familiarizado:
 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
-          
+- 💻 [Linguagem/tecnologia 1]
+- 💻 [Linguagem/tecnologia 2]
+- 💻 [Linguagem/tecnologia 3]
+- ...
 
-## Como voçê pode entrar em contato comigo pelo e-mail.
-raifransantos123456@gmail.com
+## Projetos Destacados
+
+Aqui estão alguns dos meus projetos destacados no GitHub:
+
+- 🚀 [Projeto 1](link-para-o-projeto-1): Uma breve descrição do projeto.
+- 🚀 [Projeto 2](link-para-o-projeto-2): Uma breve descrição do projeto.
+- 🚀 [Projeto 3](link-para-o-projeto-3): Uma breve descrição do projeto.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+## Vamos Conectar!
+
+Fique à vontade para me seguir nas redes sociais e entrar em contato:
+
+- [Twitter](link-para-seu-twitter)
+- [LinkedIn](link-para-seu-linkedin)
+- [Instagram](link-para-seu-instagram)
+
+Vamos trabalhar juntos em projetos interessantes!
+
