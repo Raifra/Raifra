@@ -4,9 +4,9 @@
 
 Olá, eu sou Raifran, mas pode me chamar de Ray👋
 
-- 🎓 Atualmente, estou estudando instuto federal baiano .
+- 🎓 Atualmente, estou estudando no Istituto Federal Baiano.
 - 💻 Estou interessado em tecnologias.
-- 🌱 Atualmente, estou aprendendo html,css.
+- 🌱 Atualmente, estou aprendendo html e css.
 
 
 ## Linguagens e Ferramentas
