@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá, eu sou raifran! 👋
+Olá, eu sou Raifran, mas pode me chamar de Ray👋
 
 - 🎓 Atualmente, estou estudando instuto federal baiano .
 - 💻 Estou interessado em tecnologias.
