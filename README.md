@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao Meu Perfil no GitHub
 
-## Sobre Mim
+## Sobre Mim.
 
 Olá, eu sou Raifran, mas pode me chamar de Ray👋
 
@@ -9,7 +9,7 @@ Olá, eu sou Raifran, mas pode me chamar de Ray👋
 - 🌱 Atualmente, estou aprendendo html e css.
 
 
-## Linguagens e Ferramentas
+## Linguagens e Ferramentas.
 
 Aqui estão algumas das linguagens e ferramentas que eu estou estudando:
 
