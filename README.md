@@ -4,8 +4,8 @@
 
 Olá, eu sou Raifran, mas pode me chamar de Ray👋
 
-- 🎓 Atualmente, estou estudando no Istituto Federal Baiano.
-- 💻 Estou interessado em tecnologias.
+- 🎓 Atualmente, estou estudando no Instituto Federal Baiano.
+- 💻 Curso informática para internet.
 - 🌱 Atualmente, estou aprendendo html e css.
 
 
@@ -32,5 +32,5 @@ Fique à vontade para me seguir nas redes sociais e entrar em contato:
 <a href = "mailto:raifransantos123456@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Vamos trabalhar juntos em projetos interessantes!
+Me siga!
 
