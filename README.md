@@ -11,7 +11,7 @@ Olá, eu sou Raifran, mas pode me chamar de Ray👋
 
 ## Linguagens e Ferramentas.
 
-Aqui estão algumas das linguagens e ferramentas que eu estou estudando:
+Aqui estão algumas das linguagens e ferramentas que eu estou estudando e aprendendo.
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
