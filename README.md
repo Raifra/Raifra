@@ -6,7 +6,7 @@ Olá, eu sou Raifran, mas pode me chamar de Ray👋
 
 - 🎓 Atualmente, estou estudando no Instituto Federal Baiano.
 - 💻 Curso informática para internet.
-- 🌱 Atualmente, estou aprendendo html e css.
+- 🌱 No momento, estou aprendendo html e css.
 
 
 ## Linguagens e Ferramentas.
