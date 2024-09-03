@@ -1,36 +1,40 @@
-# Bem-vindo(a) ao Meu Perfil no GitHub
+# Olá, eu sou [Seu Nome] 👋
 
-## Sobre Mim.
+Bem-vindo ao meu perfil do GitHub! Sou [Sua Profissão/Estudante de] apaixonado por [Tecnologias/Áreas de Interesse]. Atualmente estou trabalhando em [Projeto Atual] e explorando [Tecnologias/Áreas de Interesse]. 
 
-Olá, eu sou Raifran, mas pode me chamar de Ray👋
+## 🚀 Projetos
 
-- 🎓 Atualmente, estou estudando no Instituto Federal Baiano.
-- 💻 Curso informática para internet.
-- 🌱 No momento, estou aprendendo html e css.
+| Projeto         | Descrição                               |
+|-----------------|-----------------------------------------|
+| **[Nome do Projeto 1]** | Uma breve descrição do que faz.       |
+| **[Nome do Projeto 2]** | Outra breve descrição.                |
 
+## 🛠 Tecnologias & Ferramentas
 
-## Linguagens e Ferramentas.
+**Linguagens:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-Aqui estão algumas das linguagens e ferramentas que eu estou estudando e aprendendo.
+**Frameworks:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
+**Ferramentas:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+## 📫 Contate-me
 
+- **Email:** [seuemail@example.com](mailto:seuemail@example.com)
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seuperfil/)
+- **Twitter:** [Seu Twitter](https://twitter.com/seutwitter)
 
-## Estatísticas do GitHub
+## 🌟 Meus Repositórios
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raifra&show_icons=true&theme=radical)
+Confira meus repositórios abaixo e fique à vontade para contribuir!
 
-## Vamos Conectar!
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/seuusuario)
 
-Fique à vontade para me seguir nas redes sociais e entrar em contato:
-<div align="center"> 
-<a href="https://www.instagram.com/ray_guamaraes0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:raifransantos123456@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)](https://github.com/seuusuario)
 
-Me siga!
-
+![GitHub Snake](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
