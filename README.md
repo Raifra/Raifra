@@ -1,40 +1,68 @@
-# Olá, eu sou [Seu Nome] 👋
+<h1 align="center">Olá, eu sou [Seu Nome] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-Bem-vindo ao meu perfil do GitHub! Sou [Sua Profissão/Estudante de] apaixonado por [Tecnologias/Áreas de Interesse]. Atualmente estou trabalhando em [Projeto Atual] e explorando [Tecnologias/Áreas de Interesse]. 
+<p align="center">👨‍💻 Estudante | 💡 Explorador de tecnologias | 🚀 Apaixonado por inovação</p>
 
-## 🚀 Projetos
+---
 
-| Projeto         | Descrição                               |
-|-----------------|-----------------------------------------|
-| **[Nome do Projeto 1]** | Uma breve descrição do que faz.       |
-| **[Nome do Projeto 2]** | Outra breve descrição.                |
+## 🚀 Sobre mim
 
-## 🛠 Tecnologias & Ferramentas
+Sou [Sua Profissão/Estudante de X] que ama aprender coisas novas. Atualmente focado em **[Projeto Atual]** e explorando **[Tecnologias/Áreas de Interesse]**.
 
-**Linguagens:**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- 🔭 Atualmente trabalhando em: **[Projeto Atual]**
+- 🌱 Explorando: **[Tecnologia ou Framework]**
+- 💬 Me pergunte sobre: **Python, JavaScript, Git, Docker, etc.**
+- 📫 Como me encontrar: **[seuemail@email.com]**
+- ⚡ Fato curioso: *Adoro resolver problemas com código e café!*
 
-**Frameworks:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+---
 
-**Ferramentas:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+## 💼 Projetos em Destaque
 
-## 📫 Contate-me
+| Projeto | Descrição |
+|--------|-----------|
+| [Projeto 1](https://github.com/seuusuario/projeto1) | 🚀 Um projeto que faz isso e aquilo, muito útil para X. |
+| [Projeto 2](https://github.com/seuusuario/projeto2) | 🔧 Ferramenta para ajudar em Y com integração Z. |
 
-- **Email:** [seuemail@example.com](mailto:seuemail@example.com)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seuperfil/)
-- **Twitter:** [Seu Twitter](https://twitter.com/seutwitter)
+---
 
-## 🌟 Meus Repositórios
+## 🧰 Tecnologias & Ferramentas
 
-Confira meus repositórios abaixo e fique à vontade para contribuir!
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/seuusuario)
+---
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)](https://github.com/seuusuario)
+## 📊 GitHub Stats
 
-![GitHub Snake](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&hide_title=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight" height="180px"/>
+</div>
+
+---
+
+## 🛠️ Em ação!
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seuusuario&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seutwitter)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
