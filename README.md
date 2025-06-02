@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Olá, eu sou Raifran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">👨‍💻 Estudante | 💡 Explorador de tecnologias | 🚀 Apaixonado por inovação</p>
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou [Sua Profissão/Estudante de X] que ama aprender coisas novas. Atualmente focado em **[Projeto Atual]** e explorando **[Tecnologias/Áreas de Interesse]**.
+Sou estudante do IF Baiano/campus Guanambi que ama aprender coisas novas. Atualmente focado em **[Projeto Atual]** e explorando **[Tecnologias/Áreas de Interesse]**.
 
 - 🔭 Atualmente trabalhando em: **[Projeto Atual]**
 - 🌱 Explorando: **[Tecnologia ou Framework]**
